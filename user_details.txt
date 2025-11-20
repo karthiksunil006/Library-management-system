@@ -23,3 +23,14 @@ pride and prejudice
 Return Date : 2025-09-24
 
 ============================================================================
+User_Name : karthik
+Phone_Number : 7012296476
+Place of residence : paravur
+Borrow Date : 2025-10-11
+
+Books Borrowed:
+animal farm
+
+Return Date : 2025-10-18
+
+============================================================================
